@@ -17,8 +17,6 @@ O conteúdo abrange sua biografia, obra filosófica e teológica, contexto hist�
 
 Acesse o material completo em áudio e análise interativa gerado com **Google NotebookLM**:
 
-🔗 **[Acessar o NotebookLM sobre Santo Tomás de Aquino](YOUR_NOTEBOOKLM_LINK_HERE)**
-
 > O NotebookLM oferece uma biografia detalhada e uma análise intelectual de Santo Tomás de Aquino, destacando o seu papel fundamental como o expoente máximo da Escolástica. O material aborda sua trajetória desde a nobreza italiana até a formação na Ordem dos Dominicanos, além das obras capitais como a *Suma Teológica* e as **Cinco Vias** para a demonstração da existência de Deus.
 
 ---
@@ -70,25 +68,9 @@ Séc. XIII — Apogeu da Escolástica Medieval
 
 ---
 
-## 🔗 Referências e Leituras Recomendadas
-
-- [Suma Teológica — texto completo (domínio público)](https://hjg.com.ar/sumat/)
-- [Stanford Encyclopedia of Philosophy — Thomas Aquinas](https://plato.stanford.edu/entries/aquinas/)
-- [Catholic Encyclopedia — St. Thomas Aquinas](https://www.newadvent.org/cathen/14663b.htm)
-- [Vatican — Documentos sobre o Tomismo](https://www.vatican.va)
-
----
-
 ## 📌 Como contribuir
 
 Contribuições são bem-vindas! Se você tiver textos, resumos, traduções ou análises sobre Santo Tomás de Aquino, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
-
----
-
-## 📄 Licença
-
-Este repositório é de caráter educacional e acadêmico.  
-Todo o conteúdo produzido aqui está sob a licença **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.pt)** — livre para compartilhar e adaptar com atribuição.
 
 ---
 
